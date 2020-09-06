@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -11,7 +10,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-  <div class="modal-dialog modal-lg">...</div>
     <div class="card">
   <div class="card-body">
     <ul class="nav nav-pills">
@@ -29,6 +27,14 @@
   </li>
 </ul>
   </div>
+      <div class="card">
+  <div class="card-body">
+    <center>
+      <h1>make possible</h1>
+      <h4>
+      created 06.09.2020</h4></center>
+  </div>
+</div>
 </div>
 
     <!-- Optional JavaScript -->
