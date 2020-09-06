@@ -30,7 +30,7 @@
       <div class="card">
   <div class="card-body">
     <center>
-      <h1>initial @cc.2020 hek certivicat ssl "DigiCert"</h1>
+      <h1>initial @cc.2020 chek certivicat ssl "DigiCert"</h1>
       <h4>
       created 06.09.2020</h4></center>
   </div>
