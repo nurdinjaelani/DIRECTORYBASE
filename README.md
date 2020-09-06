@@ -11,6 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
+  <div class="modal-dialog modal-lg">...</div>
     <div class="card">
   <div class="card-body">
     <ul class="nav nav-pills">
